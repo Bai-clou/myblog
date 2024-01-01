@@ -1,11 +1,7 @@
 # MyBlog
 
-#### 项目链接：[www.zhyocean.cn](https://www.zhyocean.cn)
-
 #### 关于本地开发
 可直接导入该项目于本地，修改配置文件中的数据库连接信息，导入附带数据库结构的SQL文件可直接生成所有表，项目中使用到的关于阿里云功能还需开发者自行前往阿里云进行相应功能开通。
-
-**当你克隆项目到本地后可使用手机号：19940790216，密码：123456进行登录，也可自行注册并将其修改为最高管理权限。**
 
 #### 项目介绍  
 - 关于项目，对于学习Springboot是个挺不错的练手项目，可以让你在烦恼的业务逻辑中保持一颗纯洁的心
@@ -14,20 +10,6 @@
 - 记录开发过程中遇到的一些难题以及bug
 - 总结目前博客网站的一些优缺点
 - 思考整个项目有哪些可以优化的地方，以及有哪些可增加的功能
-
-## 页面展示
-
-##### 首页展示
-![](https://zhy-myblog.oss-cn-shenzhen.aliyuncs.com/public/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/SpringBoot%E4%B9%8B%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/20180802120610.png)
-<br>
-##### 文章编辑
-![](https://zhy-myblog.oss-cn-shenzhen.aliyuncs.com/public/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/SpringBoot%E4%B9%8B%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/20180802120611.png)
-<br>
-##### 后台管理
-![](https://zhy-myblog.oss-cn-shenzhen.aliyuncs.com/public/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/SpringBoot%E4%B9%8B%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/20180802121241.png)
-<br>
-##### 用户个人中心
-![](https://zhy-myblog.oss-cn-shenzhen.aliyuncs.com/public/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/SpringBoot%E4%B9%8B%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/20180802121749.png)
 
 ## 项目需求
 #### 项目背景
